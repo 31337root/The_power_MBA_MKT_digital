@@ -1,0 +1,26 @@
+*** Audiences ***
+
+Facebook has 3 types of audiences
+1. Saved audiences (Segment).
+	Are created from scratch starting from Facebook users, using variables
+	like geography, sex, age, interests, and behavior.
+	Used in prospecting campaigns, with the goal of reach people that
+	don't know us.
+2. Personalized audiences.
+	Audiences who have interacted with us in Facebook, Instagram or in your
+	web page.
+	Used in retargeting campaigns, with the goal of impact people that
+	already know us.
+3. Lookalikes audiences.
+	Audience created by Facebook with people similar to the people that
+	interact with us.
+	Used in prospecting campaigns, with the goal of reach people that 
+	don't know us.
+
+*** Types of campaigns and objectives ***
+
+The first thign we have to chose is the goal of the campaign
+
+-
+
+-  
