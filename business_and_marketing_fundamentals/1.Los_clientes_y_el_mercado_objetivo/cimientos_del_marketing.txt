@@ -29,7 +29,7 @@ Cliente:
 				- Actitudinal
 			- Variables análisis cliente en su relación con
 			nosotros.
-				- Bemeficios / para qué / objetivo
+				- Ben eficios / para qué / objetivo
 				- Problema
 				- Que valoran de tu propuesta
 				- Uso
