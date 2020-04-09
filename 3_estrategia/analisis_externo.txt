@@ -1,0 +1,57 @@
+*** Análisis externo ***
+
+Las empresas no viven aisladas, sino que dependen de factores externos relacionados
+con el mercado, la competencia y el entorno. Por ello es importante entender bien
+los basics del funcionamiento del mercado, la competencia, el ciclo de vida, etc.
+
+Atractivo:
+  El atractivo de un sector depende principalmente del tamaño, crecimiento y
+  rentabilidad. Para esta última variable vamos a utilizar las 5 Fuerzas de Porter.
+
+  - Las 5 Fuerzas de porter:
+    Modelo para analizar la rentabilidad de un sector a largo plazo.
+
+    1. Poder de compradores
+      Si los compradores tienen mucho poder se puede generar un problema de 
+      rentabilidad.
+
+      - Costes de cambio altos
+      - Costes de cambios bajos
+      - Si tu propuesta es un Commoditie
+    2. Amenaza de sustitutivos
+      Productos con los que no se compite directamente pero satisface
+      las necesidades del usuario.
+    3. Amenaza de nuevos competidores
+      Si existe algún tipo de barrera de entrada que dificulte en ingreso de
+      nuevos competidores.
+    4. Poder de proveedores
+      Evaluar cuanto y de que forma se depende de los proveedores.
+
+    Estas cuatro determinan el grado de competitividad que existe en un sector.
+    5. Rivalidad competitiva
+    Una rivalidad competitiva es igual a bajas rentabilidades.
+
+Barreraes de entrada:
+  Las barreras de entrada protegen a un sector frente a la entrade de nuevos
+  competidores. Consecuencia: menor competencia y mayores rentabiidades.
+
+  - Economías de escala
+    Se necesita un gran tamaño para poder ser competitivo.
+  - Economías de red
+    Generas valor por la masa crítica de usuarios generado.
+  - Marcas
+    Cuando construyes una marca te protege.
+  - Inversión necesaria
+    Se requiere una inversión para poder entrar a un segmento.
+  - Costes de cambio
+    Le es muy dificil cambiar de producto al usuario.
+  - Acceso a recursos
+    Tener acceso a los recursos necesarios para poder competir.
+  - Patente
+  - Protección legal
+    Requerimientos legales necesarios para poder entrar a un segmento.
+
+Ciclo de vida:
+Concentración:
+Diferenciación:
+Maco-entorno:
