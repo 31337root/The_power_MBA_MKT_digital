@@ -7,16 +7,84 @@ competitiva en cualquier sector. Además, nos va a aportar la base de conocimien
 necesaria para tomar decisiones.
 
 Ventaja competitiva:
+
   Se denomina ventaja competitiva a una ventaja o característica que una 
   compañia tiene respecto a otras compañías competidooras, lo que la hace
   diferente y permite atraer más consumidores.
+
 Penetración en el mercado:
+
   - Liderazgo en coste:
-    Capacidad para realizar un producto a un precio inferioro al resto de 
-    competidores.
+    Ser lider en coste en tu industria o sector te coloca en una situación de 
+    fuerza para ganar cuota de mercado. ¿Cómo llevarlo a cabo? ¿Cuáles son los
+    principales retos de este tipo de estrategia?
+      - El cliente es poco fiel
+      - Es dificil pivotar a una estrategia de diferenciación por la imagen de 
+      marca.
+    ¿Qué es?
+      Capacidad para realizar un producto a un precio inferioro al resto de 
+      competidores.
+    ¿Cúando?
+      Cuanto más comoditizado sean las propuestas el precio es más sensitivo.
+    ¿Cómo?
+      Reducir los costes de toda la cadena de valor del producto.
+
   - Diferenciación:
-    Capacidad de ofrecer un valor distintivo en alguo de los factores que componen
-    la propuesta de valor (producto, marca, experiencia de cliente, etc.). Los
-    clientes tienen que valorarlo y pagar por ello.
+    Buscar la ventaja competitiva por diferenciación implica ser mejores en algo
+    y que los clientes estén dispuestos a pagar por ello. ¿Cuáles son los
+    principales factores de diferenciación? ¿Cuáles son las ventajas respecto
+    al liderazgo en coste?
+
+      - Costes más altos
+
+    ¿Qué es?
+      Capacidad de ofrecer un valor distintivo en alguo de los factores que componen
+      la propuesta de valor (producto, marca, experiencia de cliente, etc.). Los
+      clientes tienen que valorarlo y pagar por ello.
+
+      Encontrar una variable en la que seas mejor que el resto y eso te permita
+      diferenciarte.
+
+    Beneficios:
+      - Hay menos competencia
+      - Hay mayor margen de ganancia
+      - Mayor fidelidad
+
+    ¿Cómo?
+      - Creando una marca como factor de diferenciación
+      - Cualidades únicas de producto
+      - Tener al mejor capital humano
+      - Mejor marketing
+
   - Nicho/segmentación:
-    
+    Enfocarnos en un segmento o nicho concreto puede ser la opción más adecuada...
+    ¿en qué circunstancias? ¿qué beneficios aporta?
+
+    ¿Qué es?
+      Nos enfocamos en un segmento de clientes concreto.
+
+      Puedes competir en coste o en diferenciación de manera segmentada.
+
+    Tipos de focos:
+      - Demográfico
+      - Geográfico
+      - Producto
+
+    Ventajas:
+      - Conoces muy bien a tu cliente
+      - Mayor fidelidad
+      - Mayor margen
+      - Generan barreras de entrada
+
+    Retos:
+      - El tamaño del mercado debe ser lo suficientemente grande
+      - Es complicado crecer
+      - Es fácil sentirse amenazado por competidores más grandes.
+
+  - Best-cost strategy:
+    Una propuesta que puede encajar como liderazgo en coste, diferenciación y nicho.
+
+  - Network effect como ventaja competitiva:
+    Es la ventaja competitiva visto normalmente en las plataformas y marketplaces
+
+    Genera una barrera de entrada gracias al network effect
