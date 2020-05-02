@@ -1,0 +1,37 @@
+*** Lean Startup ***
+
+El método Lean Startup es una verdadera revolución en el mundo del marketing y la
+estrategia empresarial y muchos de los conceptos clave como el minimo prooducto viable
+se han convertido en básicos que todo experto debe entender y saber aplicar.
+
+- Grado de innovación:
+  Siempre que tomes una decisión, o inicies un proyecto, o quieras lanzar un producto
+  o un servicio, deberías tener claro cuál es el grado de innovación.
+
+    Innovación mínima                                    Innovación máxima
+       Competir-----------------------------------------------Crear
+
+- Resumen ejecutivo de Lean Startup:
+  No se trata de ejecutar un plan de negocio, sino de buscar y encontrar un modelo de 
+  negocio rentable y sostenible, por medio de un proceso iterativo de identificación de
+  hipótesis y validación de las mismas.
+
+- Fases de desarrollo:
+  Problem solution fit:
+    Descubrir.
+    Hemos encontrado una solución para un problema.
+
+  Product market fit:
+    Validar.
+    Hay suficiente gente que ve valor y que esta dispuesta a pagar por el producto, además
+    podemos llegar a ellos de forma rentable.
+
+  Motor de crecimiento:
+    Ediciencia.
+    Podemos crecer hasta tener un negocio escalable y rentable.
+
+    Tenemos que buscar los canales a través de los que poder crecer (y de forma rentable).
+
+  Escalar:
+    Escalar
+    Pisar el acelerador y crecer lo más posible.
