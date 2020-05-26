@@ -1,0 +1,20 @@
+*** Cómo vender tu proyecto a los inversores ***
+
+En muchos casos, la viabilidad de una startup dependerá de que se obtengan los fondos
+necesarios para financiar el desarrollo del modelo.
+
+- ¿En qué piensan los inversores?
+  Las 5T:
+    Team:
+      Entender la dínamica del equipo y como puede ser el mejor equipo para lanzar el 
+      producto.
+    TAM/SAM/SOM:
+      Tamañno del mercado.
+    Tecnología:
+      Se evalua si la empresa tiene tecnología.
+    Tracción:
+      Debe haber evidencia de crecimiento.
+    MOAT:
+      Las ventajas frente a la competencia, barreras de entrada.
+
+  Cada inversor tiene criterios propios para ivnertir.

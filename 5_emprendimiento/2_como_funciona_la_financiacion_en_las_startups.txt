@@ -1,3 +1,33 @@
 *** Cómo funciona la financiación en las startups ***
 
+- Fuentes de financiación:
+  
+  Bootstrapping o financiarse con recursos propios y con las propias operaciones de la 
+  empresa.
 
+  FFF: friends, fools and family
+
+  Business angels
+
+  Incubadoras y aceleradoras
+
+  Venture capitals
+
+  Equity crowdfunding
+
+  Media for equity
+
+- Fases etapas de financiación:
+  Seed: Capital semilla para validar el problema y la solución.
+  Early Stage: Tenemos nuestros primerios clientes y métricas.
+  Growth: Validas que tu idea tiene profundidad de mercado.
+  Expansión: Nos diversificamos.
+
+- La valoración:
+  Cuando realizas una ampliación de capital, la valoración determinará el porocentaje 
+  adquirido por los inversores. Además, tu objetivo es que la compañía alcance una
+  valoración lo más alta posible en el momento del exit.
+  ¿Cómo se determinan las valoracioones para una startup?
+    Los metodos de valoración tradicionales no funcionan con las startup, son metodos 
+    basados en métricas como el flujo de caja, facturación, valorandose más en las 
+    startups la escalabilidad de la empresa.
