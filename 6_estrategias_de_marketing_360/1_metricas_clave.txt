@@ -1,0 +1,17 @@
+*** Métricas clave ***
+
+Clave de éxito:
+  Captar clientes de forma sostenida y rentable.
+
+- CAC "Customer Acquisitin Cost"
+  Lo que nos cuesta captar un cliente, gasto total marketing captación /
+  # de clientes.
+  El CAC no es estable
+- CPA ""
+  Lo que nos cuesta captar una venta, gasto total marketing captación /
+  # de ventas.
+- CLTV "Customer lifetime value"
+  El valor económico que obtemenemos de un cliente a lo largo de su vida.
+  
+- Churn rate
+  % de clientes que se dan de baja en un periodo de tiempo
