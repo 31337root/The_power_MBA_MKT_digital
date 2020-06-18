@@ -1,0 +1,76 @@
+*** Visión estratégica ***
+
+Este modelo que te dará una visión global de las diferentes fases del
+funnel.
+
+- Funnel
+  ¿Por qué?
+    Te da la vista global y estratégica del marketing digital
+    Se diagrama con un diagrama de flujos
+- Principales estrategias de marketing digital
+  - Branding
+    Es dificil de medir
+    ¿Cuándo?
+      Debe hacerse desde el principio para posicionarse en el mercado 
+  - Atracción de leads
+    Captar tráfico
+      Más volumen
+      A menor coste
+      De mayor calidad
+    Optimizar la inversión
+    Herramientas
+      Inbound marketing
+      Facebook ADS
+      Google
+      Display
+  - Captación de leads
+    Optimizar la captación de leads
+    Métrica
+      Ratio de conversión de lead sobre visita
+    Herramienta
+      Leanding page
+      Lead magnet
+      CRO
+      Formularios
+      Pop-ups
+  - Nurturing
+    Hacer el acompañamiento luego de captar los leads para convertirlos.
+    Herramientas
+      Marketing automation
+      Email marketing
+      Ventas
+      Lead scoring
+  - Conversión en web (CRO)
+    Optimizar la conversión
+    Herramientas
+      Analytics
+      User testing
+      Herramientas
+      De test a-b
+      Herramientas que graban la pantalla
+  - Incrementar ticket medio
+    ¿Cuándo?
+      Justo antes del pago
+    Actividades
+      Acciones de venta cruzada
+      Vender en packs
+      Hacer tests
+      Hacer descuentos
+    Métricas
+      ARPU
+  - Fidelización y retención
+    Objetivos
+      Que nos compren más veces (e-commerce)
+      Que no se den de baja (Recurrencia)
+    Méticas
+      Ticket medio (e-commerce)
+      Churn (Recurrencia)
+  - Recomendación y viralización
+    Objetivo
+      Conseguir que clientes que ya están contentos, se lo recomiendan a
+      otros.
+      El propio uso del producto genera que más gente nos conozca.
+- Herramientas
+  - PR
+  - Inbound marketing
+  - Tradicional
