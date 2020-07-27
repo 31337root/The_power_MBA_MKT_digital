@@ -27,3 +27,16 @@ Criterios de selección de canales
   - ¿Fijo o variable?
   - inversión mínima
   - Esfuerzo
+
+SEM Search engine marketing / PPC / Paid search
+  Les impactas con un anuncio pagado en buscadores
+  Se paga por CPC
+  Sistema de pujas por palabras claves
+Display / banner advertising
+  La pieza publicitaria incrustada en otra página web, es mejor para hcer 
+  remarketing
+  Estático
+    Imágenes que no se mueven
+  Dinámico
+    Gif, vídeos, algo interactivo y que se mueve
+    
