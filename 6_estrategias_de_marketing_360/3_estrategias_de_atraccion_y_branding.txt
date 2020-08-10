@@ -32,11 +32,33 @@ SEM Search engine marketing / PPC / Paid search
   Les impactas con un anuncio pagado en buscadores
   Se paga por CPC
   Sistema de pujas por palabras claves
+
 Display / banner advertising
   La pieza publicitaria incrustada en otra página web, es mejor para hcer 
-  remarketing
+  remarketing, es buena para llegar a grandes públicos ya que no se 
+  puede segmentar mucho, problema que se soluciona con la programática
   Estático
     Imágenes que no se mueven
   Dinámico
     Gif, vídeos, algo interactivo y que se mueve
-    
+
+  Programática
+    La programática es la automatización, mediante software y distintos
+    procesos, de la compra y venta de publicidad display, se puede
+    segmeentar mucho
+    Google display network
+
+    Programática directa
+    Subasta en tiempo real
+
+Publicidad nativa (inbound)
+  La publicidad  nativa es una forma de hacer publicidad sin que mcuhas
+  veces nos demos cuenta de que lo es, porque están integrados en 
+  estética y contenido, dentro de la web en la que nos publicitamos.
+  Tiene CTR más altos porque son contenidos más ricos
+  Outbrain (plataforma para contratar publicidad nativa)
+
+  In-feed
+  Widgets con recomendaciones
+  En lista de recomendados
+  
