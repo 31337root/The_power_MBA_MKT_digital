@@ -61,4 +61,16 @@ Publicidad nativa (inbound)
   In-feed
   Widgets con recomendaciones
   En lista de recomendados
-  
+ 
+Claves para calcular el retorno de una campaña
+  1. Segmenta y mide diferenciando los canales
+    ¿De dónde viene el tráfico?
+    Segmento de clienetes
+    Mensajes
+  2. Compara el CAC de los canales y acciones
+  3. Medir el CLTV
+  4. Haz un dashboard para controlar las métricas
+
+ROAS (Return on advertising spend)
+  Se utiliza para medir los ressultados de la inversión publicitaria
+  Ingresos/inversión * 100
