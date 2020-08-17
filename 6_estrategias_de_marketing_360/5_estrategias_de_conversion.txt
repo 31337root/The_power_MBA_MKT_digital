@@ -1,3 +1,13 @@
 *** Estrategias de conversión ***
 
+User testing y survey
+  Hotjar (Sirve para ver mapas de calor y grabaciones individuales)
 
+¿Cómo mejorar los mensajes de la web?
+  - Lenguaje sencillo y directo
+  - Header muy claro
+  - Detallando siempre los beneficios
+  - Detallando también lo que dejan de ganar si no te compran
+  - Es muy importante generar autoridad
+  - Detallar cómo funciona de la forma más sencilla posible
+  - Intentar decir lo mismo con menos palabras
