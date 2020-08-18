@@ -11,3 +11,18 @@ User testing y survey
   - Es muy importante generar autoridad
   - Detallar cómo funciona de la forma más sencilla posible
   - Intentar decir lo mismo con menos palabras
+
+Tips para convertir mejor
+  - CTA grandes, llamativos y repetidos
+  - Piensa en mobile
+
+Cómo priorizar qué mejorar
+  - Facilidad de implementación
+  - Potencial de mejora
+  - Impacto sobre el negocio
+  - Tiempo necesario 
+
+Implementación y optimización
+  - Aplicar las diferentes estrategias de conversión
+  - Comprobar cómo varía la conversión
+  - Optimizar
