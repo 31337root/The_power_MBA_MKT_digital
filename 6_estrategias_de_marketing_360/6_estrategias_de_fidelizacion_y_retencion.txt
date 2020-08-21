@@ -4,3 +4,32 @@ Claves de la fidelización
   Propuesta de valor
   Capacidad de tener engagement del cliente
   Ponerse en la piel del cliente
+
+Técnicas de fidelización
+  - No brainer decision
+    El precio y el servicio es tan bueno que solo lo pagas.
+
+Técnicas de retención
+  Lock-in
+    Que por el motivo que sea (precio, comodidad, costumbre ) tu producto 
+    genera tanta dependecia al cliente que para cambiarlo por otro es tan 
+    duro que se lo tenga que pensar mucho.
+  
+  Cuando cambiarse a la competencia es muy doloroso, estamos generando 
+  buena retención
+
+  Malas prácticas en retención
+    Debes encontrar una técnica que se adapte a tu modelo de negocio.
+    Debes hacer que tu cliente perciba tu propuesta como algo positivo.
+    
+Métricas de retención y fidelización
+  La métrica clave es el CHURN rate
+    Para periodos cortos
+    CHURN    = Clientes perdidos (en un perdiodo)
+    Rate (%)   Clientes totales (Al inicio del periodo)
+
+    Para periodos largos (requiere ajustes)
+    CHURN    = Clientes perdidos (en un perdiodo)
+    Rate (%)   Clientes totales (Al final del periodo)
+
+  Retantion rate
