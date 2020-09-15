@@ -1,0 +1,19 @@
+*** Gestión de proyectos en organizaciones ágiles ***
+
+En el alcance definimos todos los objetivos y hasta dónde va a llegar
+la aplicación del proyecto, especificar qué va a hacer le producto y
+que no va a hacer
+
+Principales errores
+  No tener en cuenta a todos los involucrados
+  No haber definido bien el alcance
+  No adelantarte a los riesgos
+
+Gestión de proyectos Agile
+  No sabemos cual será el resultado final (Alcance)
+  Cada día poner foco y priorizar en lo importante
+  Trabajar en ciclos muy cortos o Sprint
+  Muy cerca del cliente
+
+Scrum
+  
