@@ -5,4 +5,8 @@ humanos paraa referirse a los empleados.
 
 Para fijar los objetivos del colaborador es importante cumplir los
 criterios MARTE
-
+  M Medible
+  A Alcanzable
+  R Retador
+  T Temporalizado
+  E Específico
