@@ -1,0 +1,58 @@
+*** Contabilidad de gestión ***
+
+El proceso contable
+  Libro diario
+    Recoge todos los movimientos
+  Libro mayor 
+    Recoge los movimientos en cada una de las cuentas
+  Estadpos financieros
+    El saldo de cada cuenta lo llevamos al estado financiero
+  
+    3 principales estados financieros
+      El balance de situación
+        Es la base de todos los registros contables
+        Da la situación patrimonial en un momento concreto
+        Nos informa de la situación patrimonial de uma empresa en un momento
+        dado
+        El balance tiene dos partes
+        Orígenes: Origenes de los fondos 
+        Aplicaciones: inversión de los recursos
+        El balance tiene tres bloques principales
+        Patrimonio neto (Capital y reservas) Equity
+          Capital Social
+          Reservas
+          Beneficios no repartidos
+        Pasivo (Deudas)
+          Deudas a largo plazo
+          Deuda a corto plazo
+          Proveedores comerciales
+        Activo (bienes y derechos, Créditos)
+          Equipos
+          Inversiones financieras lp
+	  Maquinarias
+	  Edificios
+	  Activos intangibles (web)
+ 	  Inversiones financieras cp
+ 	  Cuentas por cobrar
+	  Existencias
+ 	  Efectivo
+	  Clientes
+      El estado de resultados
+        Nos indica el resultado del ejercicio mediante la diferencia entre 
+        ingresos y gastos
+      El estado de tesorería
+        Nos informa del saldo y los movimientos producidos en la tesorería
+        durante ese periodo
+  La ecuación diferencial
+    El activo es igual al pasivo más el patrimonio neto
+  Clasificación del activo en funnción de su liquidez
+    Corriente/circulantes
+      Activos que se van a transformar en tesorería en menos de 1 año
+    No corriente
+      Activos que se van a transformar en tesorería en más de 1 año
+  Origenes o fuentes de funaciación
+    Lo clasificamos en función de la exigibilidad
+    Corriente
+      El plazo para pagar las deudas es inferior a un año
+    No corriente
+      El plazo para pagar las deudas es superior a un año
