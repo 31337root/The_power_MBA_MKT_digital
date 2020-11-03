@@ -56,3 +56,6 @@ El proceso contable
       El plazo para pagar las deudas es inferior a un año
     No corriente
       El plazo para pagar las deudas es superior a un año
+Financiación espontanea
+  Financiación que nos conceden los proveedores
+
