@@ -1,3 +1,32 @@
 *** Análissis de estados financieros ***
 
+El valor del dinero en el tiempo
 
+VAN (Valor actual neto)
+TIR (tasa interna de retorno)
+
+Métodos de valoración de empresas
+  - Valro activos: Valor contable, ajustado, neto
+    Es una perspectiva limitada, poroque no tiene en cuanta cuánto va a generar
+    esos activos en un futuro.
+  - Mercado: Múltiplos cootizadas, Múltiplos transacciones comparables.
+    Analizamos el valor de otra compañia de la competencia, se hace 
+    relacionando el valor de una compañis con un indicador importante
+    de la empresa
+  - Descuento flujos de caja (DCF): 
+    Proyectamos los flujos de caja y lo descontamos al capital
+
+El valor total de una empresa es igual al valor de ssu Equity más el valor de
+su deuda
+
+Tipo de chash flow
+  Free cash flow FCF
+    Es el cash flow libre, nis informa de la caja que ha generado la empresa
+    en un periodo.
+    Fondos sgeenerados por la empresa, después de haber realizar las 
+    reinversiones necesarias en acivos fijos y circulantes considerando
+    que no existe deuda ni intereses.
+  Cash flow del accionista
+    Fondos generados por la empresa para sus accionistas después de haber 
+    realizar las reinversiones necesarias en Activos Fijos y circulantes,
+    haber decuelto la deuda y pagado los interés
