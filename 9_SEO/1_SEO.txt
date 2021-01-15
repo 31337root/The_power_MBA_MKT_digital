@@ -1,0 +1,13 @@
+*** SEO ***
+
+Herramientas para medir la velociidad de carga de una web
+
+PageSSpeed Insights
+https://developers.google.com/speed/pagespeed/insights/?hl=es
+https://tools.pingdom.com/
+https://webpagetest.org/
+
+Semrush Herramienta de SEO
+
+Rankmath plug-in wordpress
+
