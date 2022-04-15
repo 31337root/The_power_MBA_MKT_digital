@@ -1,0 +1,212 @@
+Facebook & Instagram ADS
+
+Son plataformas ricas de información sosbre el usuario y goza
+de estas caracteristicas:
+
+  - Se puede llegar a un público objetivo
+  - En el momento adecuado
+  - Con el mensaje que queremos
+  - Anuncios personalizados
+  - Sin necesidad de invertir con mucho dinero
+
+Estructura de Facebook ADS:
+
+  - Campaña
+    Primero se crea la campaña y se marca el objetivo:
+      - Reconocimiento de marca
+      - Tráfico
+      - Reproducciones de vídeo
+      - Conversiones
+      - Leads
+    - Conjunto de anuncios
+      Se selecciona la audiencia, ubicación, presupuesto, 
+      calendario
+      - Anuncio1
+	Formatio del anuncio, creatividad, copy, CTA, enlace
+
+Tipos de campaña y objetivos:
+
+Poniendo en marcha Facebook Ads [Checklist]
+
+  ¿Cómo poner en marcha Facebook Ads?
+    1 Fan page en Facebook
+    2 Vincular con Instagram
+    3 Cuenta en business manager
+    4 Cuenta publicitaria
+    5 Usuarios y permisos
+    6 Instalación del Pixel, API y Google Analytics
+    7 Configuración de las conversiones
+    8 Catálogo de productos (e-commerce)
+
+Primeros pasos: Fan Page y Business Manager
+
+Píxel de Facebook I
+
+  El píxel puede medir:
+    - Visitas a páginas
+    - Registros completados
+    - Productos añadidos al carrito
+    - Compras
+    - Búsquedas dentro de la web
+    - Etc.
+
+  Nos ayuda en:
+
+    - Para crear públicos de retargeting.
+
+      Vamos a impactar a aquellas personas que han interactuado con 
+      nosotros y queremos que vuelvan a nuestra web (añadieron un 
+      producto al carrito, visitaron una página concreta, etc.)
+
+    - Vamos a poder crear públicos similares (Lookalikes).
+
+    - Vamos a poder calcular el retorno (ROAS) que nos están 
+      generando nuestras campañas:
+
+      Facebook sabe cuánto estamos invirtiendo .
+
+      Y el píxel mide cuántas conversiones conseguimos y el valor 
+      que nos están generando.
+
+    - Además, el píxel nos permite monitorizar cómo actúan los 
+      usuarios en nuestro sitio web, después de que les impactemos 
+      con nuestros anuncios:
+
+Píxel de Facebook II
+
+Conversiones API
+
+Eventos estándar y conversiones personalizadas [Conversiones en 
+FB Ads]
+
+  - Eventos estándar
+    Hay que modificar el píxel de FB, añadiendo una línea de código
+    en páginas concretas
+    Los CMS tienen plug-in automatizados para la tarea
+  - Conversiones personalizadas
+    Se configuran mediante la URL
+   
+    No sirve para asignar un valor de compra por lo que es variable
+
+Creación de eventos estándar y conversiones personalizadas II
+
+Audiencias de Facebook (visión estratégica)
+
+Audiencia guardada
+
+Audiencia personalizada - Tráfico web
+
+Audiencia personalizada - Cargando un archivo de clientes
+
+Audiencia personalizada - Interacciones en FB e Instagram
+
+Audiencia similar (Lookalike)
+
+Ubicaciones de los anuncios, presupuesto y calendario
+
+  Para retargeting se deben usar ubicaciones automáticas de los
+  anuncios y para prospecting ubicaciones manuales
+
+CBO (Facebook campaign budget optimization)
+
+  Si decides optimizar el presupuesto a nivel de campaña, no te 
+  olvides de crear audiencias grandes (lo ideal es que sean de 
+  entre 1 M y 2 M de personas) Ya que el CBO funciona muy bien 
+  cuando las campañas se dirigen a mucha gente
+
+Mejores audiencias para CBO
+
+  Crear diferentres públicos de un tamaño similar
+
+Cómo estructurar campañas de CBO
+
+  El tamaño de la audiencia de cada conjunto de anuncios de tu 
+  campaña sea más o menos similar. 
+
+Estructura para retargeting
+
+  Recuerda: una buena estructura de retargeting es aquella que 
+  tiene en cuenta todas las fases del funnel.
+
+Tips para crear anuncios que convierten
+
+Nuestro secreto para Story Ads
+
+FB Messenger y WhatsApp Business
+
+Gamificación
+
+Hacks de copywriting
+
+  #1 Investiga antes de escribir.
+  #2 Ten claro tu objetivo.
+  #3 Incluye siempre un titular.
+  #4 Haz promesas concretas y relevantes para tu lector.
+  #5 Pruebas y evidencias.
+  #6 Escribe sin florituras.
+  #7 Incluye llamadas a la acción.
+
+Campaña de tráfico web
+
+Campaña para conseguir fans (Me gusta de la página)
+
+Campaña de interacciones con una publicación
+
+  Usarlo para cuándo tenemos algo interessante sobre nuestro 
+  contnido que conatar
+
+Campaña de reproducciones de vídeo
+
+  Las campañas de vídeo son interesantes porque además de 
+  promocionarnos a un coste relativamente bajo, nos van a 
+  permitir crear Custom Audiences y Lookalikes.
+
+  1.  Estas campañas son muy interesantes para dirigirnos 
+  a usuarios que no nos conocen (parte superior del funnel).
+
+  2. Se trata de un formato que llama mucho la atención, 
+  y que nos permite mostrar muy bien nuestra marca y nuestros 
+  productos/servicios.
+
+  3. Pero lo más interesante es que con estas campañas vamos 
+  a SEGMENTAR nuestro público objetivo en función de la calidad.
+
+Campaña de conversiones
+
+Campaña de Messenger Ads
+
+Campaña de clientes potenciales [Lead Ads]
+
+Estrategia Social Proof para generar conversiones
+
+Campaña de Dynamic Product Ads para Ecommerce [DPAs]
+
+A/B testing
+
+Cómo crear tu propio chatbot
+
+Personalización de columnas
+
+Creación de anuncios
+
+Analizando campañas de Kaotiko
+
+Analiza como un experto
+
+KPIs personalizados para tu Dashboard
+
+Espía a tus competidores
+
+Tips para mejorar tus campañas
+
+Optimización diaria
+
+Optimización Semanal
+
+Automatización
+
+Reglas automáticas avanzadas
+
+El impacto de iOS 14 en las campañas de Facebook Ads
+
+  
